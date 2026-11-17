@@ -8,6 +8,8 @@ const translations = {
   en: {
     top_info: "📍 UK Corporate HQ: London (Reg. No. 17497277) | Continental Hub: Saarland – Luxembourg – Frankfurt – Grand Est",
     top_portal: "B2B Portal",
+    top_lux_portal: "✨ Luxury Chauffeur & AI Vetting →",
+    nav_luxury: "✨ Luxury & AI Vetting",
     nav_services: "Services",
     nav_roster: "Chauffeur Roster",
     nav_auto: "Fleet Logistics",
@@ -19,6 +21,7 @@ const translations = {
     hero_badge: "PREMIER B2B FLEET & EXECUTIVE CHAUFFEUR AGENCY",
     hero_title: 'Flawless Execution in <span class="highlight-gold">Fleet Logistics</span> & Executive Intendance.',
     hero_desc: "Victoria Cosmos Ltd bridges premium UK corporate management with a vetted multi-driver operational bench across Luxembourg, Southwest Germany (Frankfurt, Baden-Baden, Mannheim, Saarland), and Grand Est (Strasbourg, Metz).",
+    hero_cta_lux: 'Luxury Chauffeurs ("Chauffeur Only") & AI Vetting',
     hero_cta1: "Explore B2B Solutions",
     hero_cta2: "Schedule Dispatch Call",
     stat_zero: "Accident-Free Execution",
@@ -181,12 +184,17 @@ const translations = {
     ph_email: "operations@company.de",
     ph_phone: "+49 / +352 / +33 ...",
     ph_msg: "Tell us about your transfer routes, 5-day backup chauffeur dates, or end-of-month peak pilot requirements...",
+    card_cta_est: "Open Dedicated Luxury Chauffeur & AI Vetting Division →",
+    r1_badge: "LEAD SENIOR CHAUFFEUR • 98/100 AI BENCHMARK",
+    r1_btn_profile: "View Real-Photo Dossier & 98/100 AI Audit →",
     ft_copy: "© 2026 Victoria Cosmos Ltd. All rights reserved. Registered in England & Wales (No. 17497277).",
     ft_legal: "Legal Notice"
   },
   de: {
     top_info: "📍 UK Hauptsitz: London (Reg. No. 17497277) | Einsatzbasis: Saarland – Luxemburg – Frankfurt – Grand Est",
     top_portal: "B2B-Portal",
+    top_lux_portal: "✨ Luxus-Chauffeure & KI-Prüfung →",
+    nav_luxury: "✨ Luxus & KI-Vetting",
     nav_services: "Leistungen",
     nav_roster: "Chauffeur-Kader",
     nav_auto: "Fuhrparklogistik",
@@ -198,6 +206,7 @@ const translations = {
     hero_badge: "ERSTKLASSIGE B2B FUHRPARK- & VORSTANDSFAHRER-AGENTUR",
     hero_title: 'Perfektion in <span class="highlight-gold">Fahrzeug&shy;überführung</span> &amp; exklusiver Intendanz.',
     hero_desc: "Victoria Cosmos Ltd verbindet britisches Corporate Management mit einem geprüften Multi-Chauffeur-Kader im Saarland, Frankfurt/Taunus, Baden-Baden, Mannheim, Luxemburg und Grand Est.",
+    hero_cta_lux: 'Luxus-Chauffeure („Chauffeur Only“) & KI-Vetting',
     hero_cta1: "B2B Lösungen Entdecken",
     hero_cta2: "Dispositions-Gespräch Vereinbaren",
     stat_zero: "100% Unfallfreie Fahrpraxis",
@@ -360,12 +369,17 @@ const translations = {
     ph_email: "disposition@autohaus.de",
     ph_phone: "+49 / +352 / +33 ...",
     ph_msg: "Nennen Sie uns Ihre Überführungsstrecken, Termine für das 5-Tage-Backup oder den Monatsend-Piloten...",
+    card_cta_est: "Zur Luxus-Chauffeur- & KI-Prüfungsseite →",
+    r1_badge: "LEAD SENIOR CHAUFFEUR • 98/100 KI-BENCHMARK",
+    r1_btn_profile: "Echtfoto-Dossier & 98/100 KI-Audit Ansehen →",
     ft_copy: "© 2026 Victoria Cosmos Ltd. Alle Rechte vorbehalten. Eingetragen in England & Wales (Nr. 17497277).",
     ft_legal: "Rechtlicher Hinweis"
   },
   fr: {
     top_info: "📍 Siège UK : Londres (Reg. No. 17497277) | Base Opérationnelle : Sarre – Luxembourg – Francfort – Grand Est",
     top_portal: "Portail B2B",
+    top_lux_portal: "✨ Chauffeurs de Luxe & Audit IA →",
+    nav_luxury: "✨ Luxe & Audit IA",
     nav_services: "Services",
     nav_roster: "Chauffeurs",
     nav_auto: "Convoyage",
@@ -377,6 +391,7 @@ const translations = {
     hero_badge: "AGENCE B2B DE CONVOYAGE AUTOMOBILE & CHAUFFEURS DE MAÎTRE",
     hero_title: 'Exécution Irréprochable en <span class="highlight-gold">Logistique de Flottes</span> & Intendance VIP.',
     hero_desc: "Victoria Cosmos Ltd allie la rigueur contractuelle d'une société britannique à une équipe multi-chauffeurs opérationnelle au Luxembourg, dans le Grand Est (Strasbourg, Metz, Nancy) et en Allemagne du Sud-Ouest (Francfort, Baden-Baden, Sarre).",
+    hero_cta_lux: 'Chauffeurs de Luxe (« Chauffeur Seul ») & Audit IA',
     hero_cta1: "Découvrir nos Solutions B2B",
     hero_cta2: "Planifier un Appel Dispatch",
     stat_zero: "100% Conduite Sans Sinistre",
@@ -402,7 +417,7 @@ const translations = {
     p2_f2: "✓ Maintien en condition, préparation flotte de prestige & garage",
     p2_f3: "✓ Conduite exécutive sur les véhicules propres du client",
     p2_f4: "✓ Discrétion multilingue (Français, Anglais, Italien, Allemand, Roumain)",
-    card_cta_est: "Demander un Forfait Mensuel →",
+    card_cta_est: "Ouvrir la Division Chauffeurs de Luxe & Audit IA →",
     p3_cat: "DÉFENSE & INSTITUTIONS",
     p3_title: "Support Logistique Corridor Ramstein & Institutions Européennes",
     p3_desc: "Sous-traitance commerciale directe pour les commandements américains (USAFE / Ramstein) sous le seuil GPC de 10 000 $ ainsi que pour les délégations diplomatiques et parlementaires à Luxembourg et Strasbourg.",
@@ -539,6 +554,8 @@ const translations = {
     ph_email: "logistique@concession.lu",
     ph_phone: "+352 / +33 / +49 ...",
     ph_msg: "Précisez vos flux de convoyage, dates de remplacement 5 jours ou besoins pour le test pilote de fin de mois...",
+    r1_badge: "CHAUFFEUR SENIOR PRINCIPAL • RÉFÉRENCE IA 98/100",
+    r1_btn_profile: "Voir le Dossier Photos Réelles & Audit IA 98/100 →",
     ft_copy: "© 2026 Victoria Cosmos Ltd. Tous droits réservés. Immatriculée en Angleterre et au Pays de Galles (N° 17497277).",
     ft_legal: "Mentions Légales"
   }
@@ -678,16 +695,20 @@ const frequencyDiscounts = {
 };
 
 function updateCalculator() {
-  const route = document.getElementById('routeSelect').value;
-  const freq = document.getElementById('frequencySelect').value;
-  const veh = document.getElementById('vehicleType').value;
+  const routeEl = document.getElementById('routeSelect');
+  const freqEl = document.getElementById('frequencySelect');
+  const vehEl = document.getElementById('vehicleType');
+  const priceBox = document.getElementById('resultPrice');
+  const notesBox = document.getElementById('resultNotes');
+  if (!routeEl || !freqEl || !vehEl || !priceBox || !notesBox) return;
+
+  const route = routeEl.value;
+  const freq = freqEl.value;
+  const veh = vehEl.value;
 
   const data = routeRates[route] || routeRates.local;
   const vehMult = vehicleMultipliers[veh] || 1.0;
   const freqMult = frequencyDiscounts[freq] || 1.0;
-
-  const priceBox = document.getElementById('resultPrice');
-  const notesBox = document.getElementById('resultNotes');
 
   if (freq === 'retainer') {
     let retainerMin = 4650;
@@ -743,25 +764,78 @@ function updateCalculator() {
   }
 }
 
-document.getElementById('routeSelect').addEventListener('change', updateCalculator);
-document.getElementById('frequencySelect').addEventListener('change', updateCalculator);
-document.getElementById('vehicleType').addEventListener('change', updateCalculator);
+const routeSelectEl = document.getElementById('routeSelect');
+const frequencySelectEl = document.getElementById('frequencySelect');
+const vehicleTypeEl = document.getElementById('vehicleType');
+if (routeSelectEl) routeSelectEl.addEventListener('change', updateCalculator);
+if (frequencySelectEl) frequencySelectEl.addEventListener('change', updateCalculator);
+if (vehicleTypeEl) vehicleTypeEl.addEventListener('change', updateCalculator);
 
 // --- 5. Mobile Menu Toggle ---
 const mobileToggle = document.getElementById('mobileToggle');
 const navMenu = document.getElementById('navMenu');
 
-mobileToggle.addEventListener('click', () => {
-  navMenu.classList.toggle('open');
-});
-
-document.querySelectorAll('.nav-link').forEach(link => {
-  link.addEventListener('click', () => {
-    navMenu.classList.remove('open');
+if (mobileToggle && navMenu) {
+  mobileToggle.addEventListener('click', () => {
+    navMenu.classList.toggle('open');
   });
-});
 
-// --- 6. B2B Form Submission Handler (Live Delivery + Mailto Fallback + Local Backup) ---
+  document.querySelectorAll('.nav-link').forEach(link => {
+    link.addEventListener('click', () => {
+      navMenu.classList.remove('open');
+    });
+  });
+}
+
+// --- 6. Shared B2B Dispatch Helper & Form Submission Handlers ---
+async function transmitB2BDispatch(storageKey, record, subjectLine, apiPayload, mailtoLines) {
+  try {
+    const existing = JSON.parse(localStorage.getItem(storageKey) || '[]');
+    existing.push(record);
+    localStorage.setItem(storageKey, JSON.stringify(existing));
+  } catch (err) {
+    // Ignore storage quota errors
+  }
+
+  const mailtoUrl = `mailto:operations@victoriacosmos.com?subject=${encodeURIComponent(subjectLine)}&body=${encodeURIComponent(mailtoLines.join('\r\n'))}`;
+  let deliveredViaApi = false;
+  try {
+    const response = await fetch('https://formsubmit.co/ajax/operations@victoriacosmos.com', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      },
+      body: JSON.stringify(Object.assign({
+        _subject: subjectLine,
+        _template: 'table'
+      }, apiPayload))
+    });
+    if (response.ok) {
+      const resData = await response.json();
+      if (resData && (resData.success === 'true' || resData.success === true)) {
+        deliveredViaApi = true;
+      }
+    }
+  } catch (networkErr) {
+    deliveredViaApi = false;
+  }
+
+  if (!deliveredViaApi) {
+    window.location.href = mailtoUrl;
+  }
+  return { deliveredViaApi, mailtoUrl };
+}
+
+function escapeHtml(str) {
+  return String(str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 async function handleFormSubmit() {
   const comp = document.getElementById('compName').value.trim();
   const person = document.getElementById('contactPerson').value.trim();
@@ -785,21 +859,10 @@ async function handleFormSubmit() {
     timestamp: new Date().toISOString()
   };
 
-  // 1. Store local audit backup
-  try {
-    const existing = JSON.parse(localStorage.getItem('vc_b2b_inquiries') || '[]');
-    existing.push(inquiry);
-    localStorage.setItem('vc_b2b_inquiries', JSON.stringify(existing));
-  } catch (err) {
-    // Ignore storage quota errors
-  }
-
-  if (submitBtn) {
-    submitBtn.disabled = true;
-  }
+  if (submitBtn) submitBtn.disabled = true;
 
   const subjectLine = `B2B Proposal Request: ${comp} (${interest.toUpperCase()} | Unit: ${rosterUnit})`;
-  const mailtoBody = [
+  const mailtoLines = [
     `Company / Dealership / Family Office: ${comp}`,
     `Contact Person: ${person}`,
     `Business Email: ${email}`,
@@ -810,60 +873,745 @@ async function handleFormSubmit() {
     ``,
     `Project Details / Route Frequency:`,
     msg || '(No additional message provided)'
-  ].join('\r\n');
-  const mailtoUrl = `mailto:operations@victoriacosmos.com?subject=${encodeURIComponent(subjectLine)}&body=${encodeURIComponent(mailtoBody)}`;
+  ];
 
-  // 2. Attempt live HTTP POST via FormSubmit AJAX endpoint for operations@victoriacosmos.com
-  let deliveredViaApi = false;
-  try {
-    const response = await fetch('https://formsubmit.co/ajax/operations@victoriacosmos.com', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Accept': 'application/json'
-      },
-      body: JSON.stringify({
-        _subject: subjectLine,
-        _template: 'table',
-        company: comp,
-        contact_person: person,
-        email: email,
-        phone: phone,
-        service_interest: interest,
-        preferred_unit: rosterUnit,
-        message: msg || 'Requesting Master Services Agreement & B2B rates',
-        submitted_at: inquiry.timestamp
-      })
-    });
-    if (response.ok) {
-      const resData = await response.json();
-      if (resData && (resData.success === 'true' || resData.success === true)) {
-        deliveredViaApi = true;
-      }
-    }
-  } catch (networkErr) {
-    deliveredViaApi = false;
-  }
+  const { mailtoUrl } = await transmitB2BDispatch('vc_b2b_inquiries', inquiry, subjectLine, {
+    company: comp,
+    contact_person: person,
+    email: email,
+    phone: phone,
+    service_interest: interest,
+    preferred_unit: rosterUnit,
+    message: msg || 'Requesting Master Services Agreement & B2B rates',
+    submitted_at: inquiry.timestamp
+  }, mailtoLines);
 
-  // 3. If API is unactivated or offline, trigger automatic mailto dispatch so zero leads are lost
-  if (!deliveredViaApi) {
-    window.location.href = mailtoUrl;
-  }
+  const safePerson = escapeHtml(person);
+  const safeComp = escapeHtml(comp);
+  const safeUnit = escapeHtml(rosterUnit);
 
   feedback.className = 'form-feedback success';
   if (currentLang === 'de') {
-    feedback.innerHTML = `✓ Vielen Dank, ${person}! Ihre Anfrage für <strong>${comp}</strong> (Einheit: <strong>${rosterUnit}</strong>) wurde an unsere Disposition übermittelt. Falls sich Ihr E-Mail-Programm nicht automatisch geöffnet hat, <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">klicken Sie bitte hier für den Direktversand</a>.`;
+    feedback.innerHTML = `✓ Vielen Dank, ${safePerson}! Ihre Anfrage für <strong>${safeComp}</strong> (Einheit: <strong>${safeUnit}</strong>) wurde an unsere Disposition übermittelt. Falls sich Ihr E-Mail-Programm nicht automatisch geöffnet hat, <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">klicken Sie bitte hier für den Direktversand</a>.`;
   } else if (currentLang === 'fr') {
-    feedback.innerHTML = `✓ Merci, ${person} ! Votre demande pour <strong>${comp}</strong> (Unité : <strong>${rosterUnit}</strong>) a été transmise à notre bureau de dispatch. Si votre messagerie ne s'est pas ouverte automatiquement, <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">cliquez ici pour envoyer directement</a>.`;
+    feedback.innerHTML = `✓ Merci, ${safePerson} ! Votre demande pour <strong>${safeComp}</strong> (Unité : <strong>${safeUnit}</strong>) a été transmise à notre bureau de dispatch. Si votre messagerie ne s'est pas ouverte automatiquement, <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">cliquez ici pour envoyer directement</a>.`;
   } else {
-    feedback.innerHTML = `✓ Thank you, ${person}! Your inquiry for <strong>${comp}</strong> (Unit: <strong>${rosterUnit}</strong>) has been transmitted to our dispatch desk. If you prefer direct email confirmation, <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">click here to send via your mail client</a>.`;
+    feedback.innerHTML = `✓ Thank you, ${safePerson}! Your inquiry for <strong>${safeComp}</strong> (Unit: <strong>${safeUnit}</strong>) has been transmitted to our dispatch desk. If you prefer direct email confirmation, <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">click here to send via your mail client</a>.`;
   }
 
-  if (submitBtn) {
-    submitBtn.disabled = false;
-  }
+  if (submitBtn) submitBtn.disabled = false;
   document.getElementById('proposalForm').reset();
 }
 
 // Initial calculation run
 updateCalculator();
+
+
+// --- 7. Luxury Household Page Translations & AI Vetting Engine (EN / DE / FR) ---
+const luxuryI18n = {
+  en: {
+    lux_top_hub: "Main Fleet Hub ←",
+    lux_logo_sub: "LUXURY HOUSEHOLD CHAUFFEURS",
+    lux_nav_hub: "Corporate Hub",
+    lux_nav_offers: "B2B Offers",
+    lux_nav_profile: "Flagship VCL-GC-79",
+    lux_nav_vetting: "Chauffeur Onboarding (AI)",
+    lux_nav_cta: "Contract Chauffeur",
+    lux_hero_badge: 'PRIVATE HOUSEHOLD & EXECUTIVE "CHAUFFEUR ONLY" DIVISION',
+    lux_hero_title: 'Vetted Luxury Chauffeurs <span class="highlight-gold">For Your Own Vehicles</span> &amp; Private Estate Intendance.',
+    lux_hero_desc: 'Engineered exclusively for discerning families, Family Offices, and corporate boards across Luxembourg, Southwest Germany, and Grand Est. Our vetted senior chauffeurs drive your own Mercedes S-Class, Maybach, Range Rover, Porsche, or Bentley — arriving daily in total non-live-in autonomy via our agency 2013 VW CC R-Line Chase-Car under B2B Werkvertrag (§ 631 BGB, 0% VAT Reverse Charge).',
+    lux_hero_cta1: 'View Corporate "Chauffeur Only" Offers',
+    lux_hero_cta2: "Inspect Vetted Profile: VCL-GC-79",
+    lux_hero_cta3: "Apply as Luxury Chauffeur (AI Vetting)",
+    lux_stat_1: "AI Reliability Benchmark",
+    lux_stat_2: "Night-Shift Proven Punctuality",
+    lux_stat_3: "Pure B2B Werkvertrag (§ 631 BGB)",
+    lux_stat_4: "100% Family Privacy Commute",
+    lux_offers_tag: 'CORPORATE B2B PACKAGES • "CHAUFFEUR ONLY" IN CLIENT FLEET',
+    lux_offers_title: "Dedicated Luxury Chauffeur Offers Without Payroll Burden",
+    lux_offers_sub: "You keep 100% ownership and insurance control of your prestige fleet. Victoria Cosmos Ltd supplies the vetted executive driver, full confidentiality NDA, replacement continuity guarantee, and cross-border B2B 0% VAT Reverse Charge invoicing.",
+    lux_o1_cat: "CONTINUITY & TRIAL MANDATE",
+    lux_o1_title: "5-Day Pilot & Family Office Backup Chauffeur",
+    lux_o1_price: "€ 1,850 – € 2,450 <small>Net / 5 Days (0% VAT)</small>",
+    lux_o1_desc: "Zero-commitment 5-day operational mandate (50h/week) to cover executive leave, private jet arrivals (Findel Luxaviation, Frankfurt GAT / EDFE, Baden-Baden FKB), or evaluate our flagship chauffeur directly in your family vehicles before signing a monthly retainer.",
+    lux_o1_f1: "✓ Drives your S-Class, Maybach, Range Rover, Porsche or Bentley",
+    lux_o1_f2: "✓ Autonomous daily commute (2013 VW CC R-Line Chase-Car)",
+    lux_o1_f3: "✓ Early-morning 04:30 AM FBO readiness guaranteed",
+    lux_o1_f4: "✓ Strict 24-month NDA & non-circumvention protection",
+    lux_o1_btn: "Select 5-Day Trial Offer →",
+    lux_o2_badge: "FLAGSHIP ESTATE RETAINER",
+    lux_o2_cat: "DEDICATED PRIVATE HOUSEHOLD",
+    lux_o2_title: "Monthly Chauffeur de Maître & Garage Intendance",
+    lux_o2_price: "€ 5,600 – € 7,800 <small>/ Month Net (0% VAT)</small>",
+    lux_o2_desc: "Full-time executive chauffeur & trusted household man-friday dedicated to your residence and corporate board. Combines flawless chauffeuring in your vehicles with proactive garage stewardship, dealer service runs, and discrete villa oversight.",
+    lux_o2_f1: "✓ Priority executive, spouse, and school-run mobility",
+    lux_o2_f2: "✓ Fleet warming, detailing & dealership servicing coordination",
+    lux_o2_f3: "✓ Residence technical contractor & parcel supervision",
+    lux_o2_f4: "✓ 100% Agency replacement backup during leave or illness",
+    lux_o2_btn: "Request Monthly Household Contract →",
+    lux_o3_cat: "ON-DEMAND BOARD MANDATE",
+    lux_o3_title: "Executive 10h Day & Diplomatic FBO Protocol",
+    lux_o3_price: "€ 380 – € 550 <small>/ 10h Day Net (0% VAT)</small>",
+    lux_o3_desc: "Precision single-day or multi-day deployment for roadshows, shareholder meetings in Kirchberg or Frankfurt Bankenviertel, diplomatic delegations in Strasbourg, and private luxury showroom guest transfers using client or partner fleet vehicles.",
+    lux_o3_f1: "✓ Business suit etiquette & calm defensive driving",
+    lux_o3_f2: "✓ Multilingual team: IT (C1), EN (B2), RO, DE/FR support",
+    lux_o3_f3: "✓ Zero AÜG employee-leasing liability (§ 631 BGB)",
+    lux_o3_f4: "✓ Instant single B2B invoice from UK Ltd entity",
+    lux_o3_btn: "Book 10h Executive Mandate →",
+    lux_fp_tag: "100% REAL PHOTOGRAPHS • AI BEHAVIORAL TRACK-RECORD AUDIT",
+    lux_fp_title: "Flagship Profile: Gabriel C. (Ref: VCL-GC-79)",
+    lux_fp_sub: "Luxury households value proven human dedication over empty titles. Our AI Vetting Engine analyzed years of verified night-shift commercial driving, zero-accident history, and personal conduct — awarding Ref: VCL-GC-79 our highest Luxury Household Readiness score (98/100).",
+    lux_fp_role: 'Lead Luxury Chauffeur ("Chauffeur Only"), Private Estate Intendant & Precision Driver',
+    lux_fp_badge_score: "LUXURY AI SCORE",
+    lux_real_pill: "✓ 100% Genuine Real Photograph (Zero AI Editing)",
+    lux_cap_1: "Formal Shirt & Calm Demeanor",
+    lux_cap_2: "Athletic Build (176 cm / 78 kg)",
+    lux_cap_3: "Executive & Film Character Presence",
+    lux_photo_note: "<strong>Strict Real-Photo Policy:</strong> Victoria Cosmos Ltd publishes exclusively authentic, unedited photographs of Gabriel C. (Ref: VCL-GC-79). Additional tailored suit portraits or a live video introduction via our dispatch desk are provided upon corporate inquiry prior to trial booking.",
+    lux_sp_l1: "Core Languages:",
+    lux_sp_v1: "Italian C1 (Native Bilingual), English B1/B2, Romanian Native, Operational DE",
+    lux_sp_l2: "Operating Radius:",
+    lux_sp_v2: "Luxembourg, Saarland, Frankfurt/Taunus, Baden-Baden, Strasbourg (Max 90–120 min)",
+    lux_sp_l3: "Arrival Logistics:",
+    lux_sp_v3: "Autonomous Daily Commute (Non-Live-In) via 2013 VW CC R-Line Chase-Car",
+    lux_sp_l4: "Client Protection:",
+    lux_sp_v4: "Signed NDA & 24-Month Non-Circumvention (€15,000 Penalty via UK Ltd)",
+    lux_end_title: "Personally Endorsed & Guaranteed by Victoria Cosmos Management",
+    lux_end_sub: "Rated Tier-1 for conscientious work ethic, 8+ years zero-incident road record, and absolute household discretion.",
+    lux_audit_h: 'Why Private Estates Choose Night-Shift Tested Dedication Over "Show-Off" CVs',
+    lux_audit_intro: "Wealthy families rarely want arrogant chauffeurs with inflated egos. Their #1 fear is unreliability at 04:30 AM before a private flight, reckless speed with children onboard, or household indiscretion. Gabriel C.'s multi-year German night-shift commercial driving record proves five rare traits:",
+    lux_pb1_lbl: "1. Iron Discipline & 04:30 AM Flight Readiness (Night-Shift Proven)",
+    lux_pb1_desc: "Years of uninterrupted night shifts in Germany across winter storms and tight deadlines guarantee effortless, zero-excuse punctuality for dawn departures and late jet arrivals.",
+    lux_pb2_lbl: "2. Defensive Smooth Driving & Fleet Protection (8+ Yrs Unfallfrei)",
+    lux_pb2_desc: "Conditioned for calm passenger comfort, zero abrupt braking, and meticulous protection of S-Class, Maybach, Range Rover, and Porsche mechanicals.",
+    lux_pb3_lbl: "3. Character Discretion, Zero Vices on Duty & Loyalty",
+    lux_pb3_desc: "Conscientious, silent professional who respects family privacy boundaries (non-live-in model), signs strict confidentiality NDAs, and builds lasting trust.",
+    lux_pb4_lbl: "4. Hands-On Garage & Residence Stewardship (Intendance)",
+    lux_pb4_desc: "Between drives, proactively handles fleet battery/fluid warming, detailing trips, TÜV/dealer maintenance, contractor supervision, and confidential family errands.",
+    lux_pb5_lbl: "5. Multilingual Household Protocol (IT / EN / RO / DE)",
+    lux_pb5_desc: "Native-level Italian C1 (ideal for Italian banking/industrialist families in Luxembourg & SW Germany) plus fluent operational English B2 and Romanian.",
+    lux_fp_btn1: "Request 5-Day Trial with Gabriel C. →",
+    lux_fp_btn2: "Download PDF Dossier",
+    lux_vet_tag: "PUBLIC CHAUFFEUR ONBOARDING & AI EVALUATION PORTAL",
+    lux_vet_title: "Apply to Join the Victoria Cosmos Luxury Chauffeur Roster",
+    lux_vet_sub: "Are you a dedicated professional driver seeking high-tier private household or corporate placements? Register publicly below. Our AI Vetting Engine analyzes your real operational discipline (including night-shift reliability, safety record, and work ethic) against our Gabriel C. (VCL-GC-79) 98/100 Benchmark to determine whether your activity qualifies for Luxury Household placement.",
+    lux_vet_form_h: "Candidate Operational Profile & Real Photo Submission",
+    lux_vet_banner: '<strong>Notice:</strong> You do not need past "royalty butler" titles to qualify for our Luxury Tier. Conscientious track records (such as multi-year night shifts, medical courier precision, zero-accident commercial driving, and disciplined character) score heavily in our AI evaluation.',
+    vet_btn_analyze: "🤖 Run AI Luxury Vetting Analysis",
+    vet_btn_submit: "Submit Dossier for Admin Approval →",
+    lux_c_tag: "DIRECT B2B HOUSEHOLD & FAMILY OFFICE DISPATCH",
+    lux_c_title: "Contract Our Vetted Luxury Chauffeur Division",
+    lux_c_sub: "All chauffeur introductions, 5-day continuity trials, and monthly private household retainers are contracted exclusively through Victoria Cosmos Ltd (UK Reg. No. 17497277) under 24-month Kundenschutz protection.",
+    lux_ci_desc: "Private Household Chauffeurs, Estate Intendance & Executive Protection Support",
+    lux_f_comp: "Family Office / Private Household / Company *",
+    lux_f_person: "Chief of Staff / Authorized Representative *",
+    lux_f_pkg: "Corporate Mandate Package *",
+    lux_f_msg: "Client Vehicles, Start Date & Confidentiality / Briefing Notes:",
+    lux_f_submit: "Request Confidential Chauffeur Mandate →"
+  },
+  de: {
+    lux_top_hub: "Hauptseite Flottenlogistik ←",
+    lux_logo_sub: "LUXUS-CHAUFFEURE & PRIVATHAUSHALTE",
+    lux_nav_hub: "Firmen-Hub",
+    lux_nav_offers: "B2B-Angebote",
+    lux_nav_profile: "Profil VCL-GC-79",
+    lux_nav_vetting: "Chauffeur-Bewerbung (KI)",
+    lux_nav_cta: "Chauffeur Buchen",
+    lux_hero_badge: 'PRIVATHAUSHALT & EXECUTIVE „CHAUFFEUR ONLY“ DIVISION',
+    lux_hero_title: 'Geprüfte Luxus-Chauffeure <span class="highlight-gold">für Ihre eigenen Fahrzeuge</span> &amp; Anwesen-Intendanz.',
+    lux_hero_desc: 'Speziell entwickelt für anspruchsvolle Familien, Family Offices und Vorstände in Luxemburg, Südwestdeutschland und Grand Est. Unsere geprüften Chauffeure steuern Ihre eigene Mercedes S-Klasse, Maybach, Range Rover, Porsche oder Bentley – mit täglicher autarker Anreise über unser Agentur-Begleitfahrzeug (2013 VW CC R-Line Chase-Car) als B2B-Werkvertrag (§ 631 BGB, 0% USt. Reverse Charge).',
+    lux_hero_cta1: 'Firmen-Angebote „Chauffeur Only“ ansehen',
+    lux_hero_cta2: "Referenzprofil prüfen: VCL-GC-79",
+    lux_hero_cta3: "Als Luxus-Chauffeur bewerben (KI-Analyse)",
+    lux_stat_1: "KI-Zuverlässigkeits-Benchmark",
+    lux_stat_2: "Nachtschicht-geprüfte Pünktlichkeit",
+    lux_stat_3: "Reiner Werkvertrag (§ 631 BGB)",
+    lux_stat_4: "100% Privatsphäre (Non Live-In)",
+    lux_offers_tag: 'B2B-PAKETE • „CHAUFFEUR ONLY“ IM KUNDENFAHRZEUG',
+    lux_offers_title: "Exklusive Chauffeur-Angebote ohne Personalrisiko",
+    lux_offers_sub: "Ihre Luxusfahrzeuge bleiben zu 100 % in Ihrem Eigentum und Ihrer Versicherung. Victoria Cosmos Ltd stellt den geprüften Vorstandsfahrer mit strikter NDA, Ausfallgarantie und 0% USt. Reverse-Charge-Rechnung.",
+    lux_o1_cat: "KONTINUITÄTS- & TESTMANDAT",
+    lux_o1_title: "5-Tage Pilot-Mandat & Family Office Backup",
+    lux_o1_price: "1.850 € – 2.450 € <small>Netto / 5 Tage (0% USt.)</small>",
+    lux_o1_desc: "Unverbindliches 5-Tage-Mandat (50 Std./Woche) zur Urlaubsvertretung, für Privatjet-Ankünfte (Findel Luxaviation, Frankfurt GAT / EDFE, Baden-Baden FKB) oder zum Kennenlernen unseres Lead-Chauffeurs direkt in Ihren Fahrzeugen.",
+    lux_o1_f1: "✓ Fährt Ihre S-Klasse, Maybach, Range Rover, Porsche oder Bentley",
+    lux_o1_f2: "✓ Autarke Anreise per Agentur-Chase-Car (2013 VW CC R-Line)",
+    lux_o1_f3: "✓ Garantierte Einsatzbereitschaft ab 04:30 Uhr morgens",
+    lux_o1_f4: "✓ Strikte 24-Monate-NDA & Kundenschutzklausel",
+    lux_o1_btn: "5-Tage-Testmandat wählen →",
+    lux_o2_badge: "HAUPT-RETAINER FÜR PRIVATANWESEN",
+    lux_o2_cat: "DEDIZIERTER PRIVATHAUSHALT",
+    lux_o2_title: "Monats-Retainer Chauffeur de Maître & Garagenpflege",
+    lux_o2_price: "5.600 € – 7.800 € <small>/ Monat Netto (0% USt.)</small>",
+    lux_o2_desc: "Fester Vorstandsfahrer & diskreter Anwesensbetreuer im Kundenfahrzeug. Verbindet ruhige Executive-Fahrten mit aktiver Garagenpflege, Werkstatt-/TÜV-Fahrten und technischer Objektkoordination.",
+    lux_o2_f1: "✓ Priorisierte Mobilität für Vorstand, Familie & Schulfahrten",
+    lux_o2_f2: "✓ Bewegungsfahrten, Fahrzeugaufbereitung & Service-Termine",
+    lux_o2_f3: "✓ Aufsicht über Handwerker, Lieferungen & Anwesen",
+    lux_o2_f4: "✓ 100% Vertretungsgarantie durch Victoria Cosmos Kader",
+    lux_o2_btn: "Monats-Retainer anfragen →",
+    lux_o3_cat: "TAGESMANDAT & FBO-PROTOKOLL",
+    lux_o3_title: "Executive 10h-Tagessatz & Diplomatischer Transfer",
+    lux_o3_price: "380 € – 550 € <small>/ 10h-Tag Netto (0% USt.)</small>",
+    lux_o3_desc: "Präziser Tageseinsatz für Roadshows, Verwaltungsratstermine auf dem Kirchberg oder in Frankfurt sowie anspruchsvolle Autohaus-VIP-Kunden.",
+    lux_o3_f1: "✓ Business-Anzug-Etikette & ruhige Defensivfahrweise",
+    lux_o3_f2: "✓ Mehrsprachiges Team: IT (C1), EN (B2), RO, DE/FR",
+    lux_o3_f3: "✓ Kein AÜG-Verleihrisiko (§ 631 BGB Werkvertrag)",
+    lux_o3_f4: "✓ Klare B2B-Nettoabrechnung über UK Limited",
+    lux_o3_btn: "10h-Executive-Mandat buchen →",
+    lux_fp_tag: "100% ECHTE FOTOS • KI-VERHALTENS- & ZUVERLÄSSIGKEITSAUDIT",
+    lux_fp_title: "Referenzprofil: Gabriel C. (Ref: VCL-GC-79)",
+    lux_fp_sub: "Privathaushalte schätzen bewiesene Hingabe mehr als leere Titel. Unsere KI-Analyse bewertete jahrelange gewerbliche Nachtschicht-Disziplin und 8+ Jahre Unfallfreiheit mit dem Spitzenwert 98/100.",
+    lux_fp_role: 'Lead Luxus-Chauffeur („Chauffeur Only“), Anwesen-Intendant & Präzisionsfahrer',
+    lux_fp_badge_score: "LUXUS-KI-WERT",
+    lux_real_pill: "✓ 100% Echtes Originalfoto (Keine KI-Manipulation)",
+    lux_cap_1: "Business-Hemd & ruhige Ausstrahlung",
+    lux_cap_2: "Sportliche Statur (176 cm / 78 kg)",
+    lux_cap_3: "Executive- & Film-Präsenz",
+    lux_photo_note: "<strong>Strenge Echtfoto-Richtlinie:</strong> Victoria Cosmos Ltd veröffentlicht ausschließlich authentische Fotos von Gabriel C. (Ref: VCL-GC-79). Weitere Business-Anzug-Aufnahmen oder ein kurzes Video-Kennenlernen stellen wir auf Anfrage vor dem 5-Tage-Piloten bereit.",
+    lux_sp_l1: "Sprachen:",
+    lux_sp_v1: "Italienisch C1 (bilingual fließend), Englisch B1/B2, Rumänisch Muttersprache, DE (Einsatzverständnis)",
+    lux_sp_l2: "Einsatzradius:",
+    lux_sp_v2: "Luxemburg, Saarland, Frankfurt/Taunus, Baden-Baden, Straßburg (Max. 90–120 Min.)",
+    lux_sp_l3: "Anfahrt:",
+    lux_sp_v3: "Tägliches Pendeln (Non Live-In) mit 2013 VW CC R-Line Chase-Car",
+    lux_sp_l4: "Kundenschutz:",
+    lux_sp_v4: "NDA & 24 Monate Kundenschutz (15.000 € Vertragsstrafe über UK Ltd)",
+    lux_end_title: "Persönlich empfohlen & garantiert durch die Geschäftsführung Victoria Cosmos",
+    lux_end_sub: "Tier-1-Bewertung für Gewissenhaftigkeit, 8+ Jahre unfallfreie Fahrpraxis und absolute Diskretion im Haushalt.",
+    lux_audit_h: "Warum Privathaushalte nachtschicht-geprüfte Verlässlichkeit vorziehen",
+    lux_audit_intro: "Wohlhabende Familien suchen keine überheblichen Chauffeure. Ihre größte Sorge ist Unpünktlichkeit um 04:30 Uhr vor einem Privatflug oder fehlende Diskretion. Gabriels jahrelange Nachtschicht-Routine beweist fünf seltene Stärken:",
+    lux_pb1_lbl: "1. Eiserne Disziplin & 04:30 Uhr Abflugbereitschaft (Nachtschicht-erprobt)",
+    lux_pb1_desc: "Jahrelange ununterbrochene Nachtschichten in Deutschland garantieren kompromisslose Pünktlichkeit am frühen Morgen.",
+    lux_pb2_lbl: "2. Ruhige, defensive Fahrkultur (8+ Jahre Unfallfrei)",
+    lux_pb2_desc: "Sanftes Beschleunigen, vorausschauendes Bremsen und Materialschonung bei S-Klasse, Maybach, Range Rover & Porsche.",
+    lux_pb3_lbl: "3. Charakterstärke, keine Laster im Dienst & Loyalität",
+    lux_pb3_desc: "Diskret, respektiert die Privatsphäre der Familie (Non Live-In) und unterzeichnet strenge Vertraulichkeitsvereinbarungen.",
+    lux_pb4_lbl: "4. Praktische Garagen- & Anwesensbetreuung (Intendanz)",
+    lux_pb4_desc: "Übernimmt zwischen den Fahrten Fahrzeugpflege, Servicefahrten, Handwerkeraufsicht und vertrauliche Besorgungen.",
+    lux_pb5_lbl: "5. Mehrsprachiges Haushaltsprotokoll (IT / EN / RO / DE)",
+    lux_pb5_desc: "Italienisch C1 (ideal für italienische Unternehmer-/Bankerfamilien in LU/DE) sowie Englisch B2 und Rumänisch.",
+    lux_fp_btn1: "5-Tage-Test mit Gabriel C. anfragen →",
+    lux_fp_btn2: "B2B-Dossier (PDF) herunterladen",
+    lux_vet_tag: "ÖFFENTLICHES CHAUFFEUR-BEWERBUNGSPORTAL & KI-ANALYSE",
+    lux_vet_title: "Als Luxus-Chauffeur bei Victoria Cosmos bewerben",
+    lux_vet_sub: "Sie sind ein gewissenhafter Berufsfahrer und möchten für Privathaushalte oder Vorstände fahren? Tragen Sie Ihre echte Berufserfahrung ein. Unsere KI prüft Ihre Nachtschicht-Disziplin, Unfallfreiheit und Sorgfalt gegen unseren 98/100 Benchmark (Ref: VCL-GC-79).",
+    lux_vet_form_h: "Bewerberprofil & Echtfoto-Einreichung",
+    lux_vet_banner: '<strong>Hinweis:</strong> Sie brauchen keinen früheren Titel als „Hof-Butler“. Gewissenhafte Leistungsträger (z. B. jahrelange Nachtschichten, Medizinkurier, unfallfreie Berufspraxis) erreichen in unserer KI-Analyse Spitzenwerte für das Luxus-Segment.',
+    vet_btn_analyze: "🤖 KI-Luxus-Eignungsprüfung starten",
+    vet_btn_submit: "Dossier zur manuellen Freigabe senden →",
+    lux_c_tag: "DIREKTE DISPOSITION FÜR FAMILY OFFICES & PRIVATHAUSHALTE",
+    lux_c_title: "Unsere geprüfte Luxus-Chauffeur-Division beauftragen",
+    lux_c_sub: "Alle Vermittlungen, 5-Tage-Tests und Monats-Retainer laufen exklusiv über die Victoria Cosmos Ltd (UK Reg. No. 17497277) mit 24 Monaten Kundenschutz.",
+    lux_ci_desc: "Privatchauffeure, Anwesen-Intendanz & Vorstandsmobilität",
+    lux_f_comp: "Family Office / Privathaushalt / Unternehmen *",
+    lux_f_person: "Bevollmächtigter Ansprechpartner / Chief of Staff *",
+    lux_f_pkg: "Gewünschtes B2B-Mandatspaket *",
+    lux_f_msg: "Fahrzeugmodelle, Startdatum & Vertraulichkeitshinweise:",
+    lux_f_submit: "Vertrauliche Chauffeur-Anfrage senden →"
+  },
+  fr: {
+    lux_top_hub: "Retour Portail Flottes ←",
+    lux_logo_sub: "CHAUFFEURS DE MAÎTRE & MAISONS PRIVÉES",
+    lux_nav_hub: "Hub Corporate",
+    lux_nav_offers: "Offres B2B",
+    lux_nav_profile: "Profil VCL-GC-79",
+    lux_nav_vetting: "Inscription Chauffeur (IA)",
+    lux_nav_cta: "Contracter un Chauffeur",
+    lux_hero_badge: 'DIVISION MAISONS PRIVÉES & DIRECTION « CHAUFFEUR SEUL »',
+    lux_hero_title: 'Chauffeurs de Maître Vérifiés <span class="highlight-gold">Sur Vos Propres Véhicules</span> &amp; Intendance Privée.',
+    lux_hero_desc: 'Conçue pour les familles fortunées, Family Offices et directions bancaires au Luxembourg, en Allemagne du Sud-Ouest et dans le Grand Est. Nos chauffeurs vérifiés conduisent votre Mercedes Classe S, Maybach, Range Rover, Porsche ou Bentley — avec trajet domicile-travail autonome (Non Live-In) via notre véhicule d\'agence 2013 VW CC R-Line Chase-Car sous contrat B2B (0% TVA autoliquidation).',
+    lux_hero_cta1: 'Voir les Offres Entreprise « Chauffeur Seul »',
+    lux_hero_cta2: "Examiner le Profil Référence : VCL-GC-79",
+    lux_hero_cta3: "S'inscrire comme Chauffeur de Luxe (Audit IA)",
+    lux_stat_1: "Score Référence IA",
+    lux_stat_2: "Fiabilité Prouvée de Nuit",
+    lux_stat_3: "Contrat B2B Sans Risque RH",
+    lux_stat_4: "Intimité Familiale 100% Préservée",
+    lux_offers_tag: 'FORFAITS B2B ENTREPRISE • « CHAUFFEUR SEUL » SUR FLOTTE CLIENT',
+    lux_offers_title: "Offres Dédiées aux Maisons Privées sans Charges Salariales",
+    lux_offers_sub: "Vous conservez 100 % du contrôle et de l'assurance de vos véhicules de prestige. Victoria Cosmos Ltd fournit le chauffeur exécutif vérifié, la clause de confidentialité NDA, le remplacement garanti et une facturation B2B à 0 % TVA.",
+    lux_o1_cat: "MANDAT D'ESSAI & CONTINUITÉ",
+    lux_o1_title: "Mandat Pilote 5 Jours & Remplacement Family Office",
+    lux_o1_price: "1 850 € – 2 450 € <small>HT / 5 Jours (0% TVA)</small>",
+    lux_o1_desc: "Mandat de 5 jours (50h/semaine) sans engagement long terme pour pallier les congés, assurer les arrivées jet privé (Findel Luxaviation, Francfort GAT, Baden-Baden FKB) ou évaluer notre chauffeur sur vos propres véhicules.",
+    lux_o1_f1: "✓ Conduite sur votre Classe S, Maybach, Range Rover ou Porsche",
+    lux_o1_f2: "✓ Trajets autonomes quotidiens (Chase-Car 2013 VW CC R-Line)",
+    lux_o1_f3: "✓ Ponctualité garantie dès 04h30 du matin",
+    lux_o1_f4: "✓ Accord NDA strict & non-sollicitation 24 mois",
+    lux_o1_btn: "Choisir l'Offre Essai 5 Jours →",
+    lux_o2_badge: "FORFAIT PHARE MAISON PRIVÉE",
+    lux_o2_cat: "MAISON PRIVÉE DÉDIÉE",
+    lux_o2_title: "Abonnement Mensuel Chauffeur de Maître & Intendance Garage",
+    lux_o2_price: "5 600 € – 7 800 € <small>/ Mois HT (0% TVA)</small>",
+    lux_o2_desc: "Chauffeur exécutif à plein temps et homme de confiance dédié à votre résidence et direction. Allie conduite soignée, entretien du garage, suivi concessions/contrôles techniques et supervision discrète des prestataires.",
+    lux_o2_f1: "✓ Mobilité prioritaire dirigeants, famille & trajets scolaires",
+    lux_o2_f2: "✓ Maintien mécanique, detailing & passages en concession",
+    lux_o2_f3: "✓ Supervision des artisans et réception confidentielle",
+    lux_o2_f4: "✓ Continuité de remplacement 100% garantie par l'agence",
+    lux_o2_btn: "Demander un Abonnement Mensuel →",
+    lux_o3_cat: "MISSION PONCTUELLE & PROTOCOLE FBO",
+    lux_o3_title: "Forfait Journée 10h Direction & Protocole Diplomatique",
+    lux_o3_price: "380 € – 550 € <small>/ Jour 10h HT (0% TVA)</small>",
+    lux_o3_desc: "Intervention à la journée pour roadshows, conseils d'administration au Kirchberg ou Francfort, délégations européennes à Strasbourg et transferts clients VIP.",
+    lux_o3_f1: "✓ Tenue costume irréprochable & conduite apaisée",
+    lux_o3_f2: "✓ Équipe multilingue : IT (C1), EN (B2), RO, support DE/FR",
+    lux_o3_f3: "✓ Zéro prêt de main-d'œuvre (Contrat d'Entreprise UK Ltd)",
+    lux_o3_f4: "✓ Facture B2B unique HT 0% TVA",
+    lux_o3_btn: "Réserver un Mandat 10h →",
+    lux_fp_tag: "100% PHOTOS RÉELLES • AUDIT IA DE FIABILITÉ COMPORTEMENTALE",
+    lux_fp_title: "Profil Phare : Gabriel C. (Réf: VCL-GC-79)",
+    lux_fp_sub: "Les familles fortunées privilégient la conscience professionnelle éprouvée aux titres prétentieux. Notre moteur IA a analysé ses années de conduite commerciale de nuit et son dossier vierge (>8 ans), lui attribuant la note record de 98/100.",
+    lux_fp_role: 'Chauffeur de Maître Principal (« Chauffeur Seul »), Intendant de Domaine & Conducteur de Précision',
+    lux_fp_badge_score: "SCORE IA LUXE",
+    lux_real_pill: "✓ 100% Photographie Réelle Authentique (Zéro Retouche IA)",
+    lux_cap_1: "Chemise Blanche & Attitude Posée",
+    lux_cap_2: "Stature Athlétique (176 cm / 78 kg)",
+    lux_cap_3: "Présence Exécutive & Cinéma",
+    lux_photo_note: "<strong>Politique Stricte de Photos Réelles :</strong> Victoria Cosmos Ltd publie uniquement des photographies réelles de Gabriel C. (Réf: VCL-GC-79). D'autres portraits en costume ou une présentation vidéo en direct sont fournis sur demande.",
+    lux_sp_l1: "Langues :",
+    lux_sp_v1: "Italien C1 (Bilingue Natif), Anglais B1/B2, Roumain Natif, Allemand opérationnel",
+    lux_sp_l2: "Zone d'action :",
+    lux_sp_v2: "Luxembourg, Sarre, Francfort/Taunus, Baden-Baden, Strasbourg (Max 90–120 min)",
+    lux_sp_l3: "Logistique d'arrivée :",
+    lux_sp_v3: "Trajets autonomes (Non Live-In) via 2013 VW CC R-Line Chase-Car",
+    lux_sp_l4: "Protection Client :",
+    lux_sp_v4: "NDA signé & Non-Sollicitation 24 Mois (Pénalité 15 000 € via UK Ltd)",
+    lux_end_title: "Personnellement Recommandé & Garanti par la Direction Victoria Cosmos",
+    lux_end_sub: "Classé Tier-1 pour sa conscience professionnelle, >8 ans sans sinistre et sa discrétion absolue.",
+    lux_audit_h: "Pourquoi les Maisons Privées choisissent un Chauffeur éprouvé de Nuit",
+    lux_audit_intro: "La plus grande crainte d'un dirigeant ayant un vol privé à 05h00 du matin est l'absence de fiabilité. Les années de service nocturne de Gabriel C. démontrent cinq qualités exceptionnelles :",
+    lux_pb1_lbl: "1. Discipline de Fer & Disponibilité Vol 04h30 (Éprouvé de Nuit)",
+    lux_pb1_desc: "Des années de conduite de nuit en Allemagne garantissent une ponctualité sans faille à toute heure.",
+    lux_pb2_lbl: "2. Conduite Douce, Préventive & Respect Mécanique (>8 ans sans accident)",
+    lux_pb2_desc: "Conduite fluide pour le confort des passagers et la préservation de vos Classe S, Maybach, Range Rover et Porsche.",
+    lux_pb3_lbl: "3. Discrétion Morale, Zéro Vice en Service & Loyauté",
+    lux_pb3_desc: "Professionnel silencieux respectant l'intimité familiale (régime Non Live-In) sous clause de confidentialité stricte.",
+    lux_pb4_lbl: "4. Soin Quotidien du Garage & Intendance de Propriété",
+    lux_pb4_desc: "Entre deux trajets : suivi d'entretien, préparation des véhicules, coordination des prestataires et courses confidentielles.",
+    lux_pb5_lbl: "5. Maîtrise Multilingue VIP (IT / EN / RO / DE)",
+    lux_pb5_desc: "Italien C1 natif (précieux pour les familles d'entrepreneurs et banquiers italiens au Luxembourg/Allemagne), Anglais B2 et Roumain.",
+    lux_fp_btn1: "Demander un Essai 5 Jours avec Gabriel C. →",
+    lux_fp_btn2: "Télécharger le Dossier PDF",
+    lux_vet_tag: "PORTAIL PUBLIC D'INSCRIPTION CHAUFFEURS & ÉVALUATION IA",
+    lux_vet_title: "Rejoindre l'Effectif de Chauffeurs de Luxe Victoria Cosmos",
+    lux_vet_sub: "Chauffeur professionnel consciencieux ? Inscrivez-vous publiquement ci-dessous. Notre moteur IA analyse votre parcours (régularité de nuit, conduite sans sinistre, polyvalence) face à notre référence Gabriel C. (98/100) pour qualifier votre profil en catégorie Luxe.",
+    lux_vet_form_h: "Profil Opérationnel du Candidat & Photos Réelles",
+    lux_vet_banner: '<strong>Note importante :</strong> Nul besoin d\'un titre antérieur de « majordome de palais ». Une discipline prouvée (travail de nuit sur plusieurs années, coursier médical ponctuel, 0 accident) obtient un score maximal.',
+    vet_btn_analyze: "🤖 Lancer l'Analyse IA Profil Luxe",
+    vet_btn_submit: "Soumettre pour Validation Manuelle →",
+    lux_c_tag: "DISPATCH DIRECT FAMILY OFFICES & MAISONS PRIVÉES",
+    lux_c_title: "Contracter Notre Division Chauffeurs de Luxe Vérifiés",
+    lux_c_sub: "Chaque mise en relation, test de 5 jours ou forfait mensuel est contracté exclusivement via Victoria Cosmos Ltd (UK Reg. No. 17497277) avec protection anti-contournement de 24 mois.",
+    lux_ci_desc: "Chauffeurs de Maître, Intendance de Propriétés & Protocole VIP",
+    lux_f_comp: "Family Office / Maison Privée / Société *",
+    lux_f_person: "Responsable / Représentant Autorisé *",
+    lux_f_pkg: "Forfait B2B Souhaité *",
+    lux_f_msg: "Véhicules du client, date de début & consignes de confidentialité :",
+    lux_f_submit: "Envoyer la Demande Confidentielle →"
+  }
+};
+
+// Merge Luxury dictionary into global translations object
+Object.keys(luxuryI18n).forEach(lang => {
+  if (translations[lang]) {
+    Object.assign(translations[lang], luxuryI18n[lang]);
+  }
+});
+
+// Accessible Form Validation Helper (modern :user-invalid + aria-invalid / aria-describedby sync + legacy fallback)
+(function initAccessibleFormValidation() {
+  const supportsUserInvalid = typeof CSS !== 'undefined' && CSS.supports && CSS.supports('selector(:user-invalid)');
+  const linkError = (el, shown) => {
+    const errorId = el.dataset ? el.dataset.error : null;
+    if (!errorId) return;
+    const ids = (el.getAttribute('aria-describedby') || '').split(/\s+/).filter(id => id && id !== errorId);
+    if (shown) ids.push(errorId);
+    if (ids.length) el.setAttribute('aria-describedby', ids.join(' '));
+    else el.removeAttribute('aria-describedby');
+  };
+
+  const dirtyMap = new WeakMap();
+  const syncField = (el) => {
+    if (!el || !el.matches || !el.matches('input, select, textarea')) return;
+    const isInvalid = supportsUserInvalid
+      ? el.matches(':user-invalid')
+      : (dirtyMap.has(el) && !el.validity.valid);
+    el.setAttribute('aria-invalid', isInvalid ? 'true' : 'false');
+    if (!supportsUserInvalid) {
+      el.classList.toggle('user-invalid-fallback', isInvalid);
+    }
+    linkError(el, isInvalid);
+  };
+
+  document.querySelectorAll('input, select, textarea').forEach(el => {
+    el.setAttribute('aria-invalid', 'false');
+  });
+
+  document.addEventListener('blur', (e) => {
+    if (!e.target || !e.target.checkValidity) return;
+    dirtyMap.set(e.target, true);
+    syncField(e.target);
+  }, true);
+
+  document.addEventListener('input', (e) => {
+    if (e.target && e.target.hasAttribute && e.target.hasAttribute('aria-invalid')) {
+      syncField(e.target);
+    }
+  });
+
+  document.addEventListener('change', (e) => {
+    if (!e.target || !e.target.checkValidity) return;
+    dirtyMap.set(e.target, true);
+    syncField(e.target);
+  }, true);
+
+  document.addEventListener('invalid', (e) => {
+    dirtyMap.set(e.target, true);
+    if (!supportsUserInvalid) e.target.classList.add('user-invalid-fallback');
+    syncField(e.target);
+  }, true);
+
+  window.__vcSyncFormAccessibility = function(formEl) {
+    if (!formEl) return;
+    [...formEl.elements].forEach(el => {
+      if (el.checkValidity) {
+        dirtyMap.set(el, true);
+        if (!supportsUserInvalid && !el.validity.valid) el.classList.add('user-invalid-fallback');
+        syncField(el);
+      }
+    });
+  };
+})();
+
+// 1-Click Offer Selection on luxury.html -> Scrolls to #luxury-contact
+function selectLuxuryOffer(pkgCode, pkgLabel, unitCode) {
+  const pkgEl = document.getElementById('luxPackageSelect');
+  const unitEl = document.getElementById('luxUnitSelect');
+  const msgEl = document.getElementById('luxMessage');
+  if (pkgEl && pkgCode) pkgEl.value = pkgCode;
+  if (unitEl && unitCode) unitEl.value = unitCode;
+  if (msgEl) {
+    if (currentLang === 'de') {
+      msgEl.value = `Vertrauliche B2B-Mandatsanfrage [${pkgLabel}] für Einheit [${unitCode}]. Bitte senden Sie den Rahmenvertrag (§ 631 BGB, 0% USt. Reverse Charge) sowie mögliche Termine für ein kurzes Video-Vorabgespräch.`;
+    } else if (currentLang === 'fr') {
+      msgEl.value = `Demande confidentielle de mandat B2B [${pkgLabel}] pour l'unité [${unitCode}]. Merci de nous transmettre votre contrat d'entreprise (0% TVA) et vos créneaux pour un entretien vidéo préalable.`;
+    } else {
+      msgEl.value = `Confidential B2B mandate inquiry [${pkgLabel}] for vetted unit [${unitCode}]. Please send your Master Agreement (Werkvertrag § 631 BGB, 0% VAT Reverse Charge) and video intro availability.`;
+    }
+  }
+  const targetSec = document.getElementById('luxury-contact');
+  if (targetSec) targetSec.scrollIntoView({ behavior: 'smooth' });
+  setTimeout(() => {
+    const firstInput = document.getElementById('luxComp');
+    if (firstInput) firstInput.focus();
+  }, 450);
+}
+
+// --- AI Luxury Chauffeur Vetting Engine (Scored vs Ref: VCL-GC-79 Benchmark) ---
+function evaluateChauffeurProfile() {
+  const form = document.getElementById('aiVettingForm');
+  if (!form) return null;
+
+  const name = (document.getElementById('vetName')?.value || '').trim() || 'Candidate';
+  const city = (document.getElementById('vetCity')?.value || '').trim();
+  const driveYears = parseInt(document.getElementById('vetDriveYears')?.value || '0', 10);
+  const accidents = parseInt(document.getElementById('vetAccidents')?.value || '0', 10);
+  const nightTier = parseInt(document.getElementById('vetNightYears')?.value || '1', 10);
+  const modeEl = form.querySelector('input[name="vet_mode"]:checked');
+  const mode = modeEl ? modeEl.value : 'chauffeur_only';
+  const summaryText = (document.getElementById('vetSummary')?.value || '').toLowerCase();
+
+  // 1. Night-Shift & Dawn Readiness (Max 25 pts)
+  let nightScore = nightTier === 5 ? 25 : (nightTier === 3 ? 18 : 8);
+
+  // 2. Driving Experience & Accident-Free Safety (Max 25 pts)
+  let expPts = driveYears >= 8 ? 13 : (driveYears >= 5 ? 10 : (driveYears >= 3 ? 7 : 4));
+  let accidentPts = accidents === 0 ? 12 : (accidents === 1 ? 4 : 0);
+  let safetyScore = expPts + accidentPts;
+
+  // 3. Discretion, Clean Record & Real Photo Integrity (Max 20 pts)
+  let discScore = 0;
+  if (document.getElementById('chkZeroVice')?.checked) discScore += 7;
+  if (document.getElementById('chkCleanRecord')?.checked) discScore += 7;
+  if (document.getElementById('chkNonLiveIn')?.checked) discScore += 4;
+  if (document.getElementById('chkRealPhotos')?.checked) discScore += 2;
+
+  // 4. Garage, FBO Protocol & Estate Intendance (Max 15 pts)
+  let garageScore = 0;
+  if (document.getElementById('chkGarage')?.checked) garageScore += 5;
+  if (document.getElementById('chkFbo')?.checked) garageScore += 5;
+  if (document.getElementById('chkEstate')?.checked) garageScore += 5;
+
+  // 5. Multilingual Capability & AI Text Track-Record Audit (Max 15 pts)
+  const langCount = ['langDe', 'langEn', 'langFr', 'langIt', 'langRo']
+    .filter(id => document.getElementById(id)?.checked).length;
+  let langPts = Math.min(10, langCount * 3);
+  if (document.getElementById('langEn')?.checked && (document.getElementById('langDe')?.checked || document.getElementById('langIt')?.checked || document.getElementById('langFr')?.checked)) {
+    langPts = Math.min(10, langPts + 1);
+  }
+  const disciplineKeywords = ['night', 'nacht', 'nuit', 'noapte', 'unfallfrei', 'accident', 'calm', 'discreet', 'diskret', 'punctual', 'reliable', 'fließend', 'fluent', 'conscientious', 'courier', 'kurier', 'medical', 'executive', 'luxury'];
+  let keywordHits = disciplineKeywords.filter(kw => summaryText.includes(kw)).length;
+  let narrativePts = Math.min(5, keywordHits + (summaryText.length >= 40 ? 2 : 0));
+  let textLangScore = Math.min(15, langPts + narrativePts);
+
+  const totalScore = Math.min(100, nightScore + safetyScore + discScore + garageScore + textLangScore);
+
+  // Classify tier & generate localized verdict
+  let tierClass = 'tier-reject';
+  let tierLabel = 'BELOW THRESHOLD (<70)';
+  let headline = 'Requires stronger accident-free history or schedule reliability.';
+  let coaching = '';
+
+  if (totalScore >= 85 && accidents === 0) {
+    tierClass = 'tier-luxury';
+    if (currentLang === 'de') {
+      tierLabel = 'TIER-1 LUXUS-HAUSHALT GEEIGNET (≥85 PKT.)';
+      headline = `${escapeHtml(name)} erfüllt den Victoria Cosmos Luxus-Standard (Benchmark Ref: VCL-GC-79).`;
+      coaching = `Starke Übereinstimmung (${totalScore}/100) bei Zuverlässigkeit, Unfallfreiheit und Diskretion. Nach manueller Admin-Prüfung Ihrer echten Geschäftsfotos & Ihres Führungszeugnisses empfehlen wir Sie aktiv für Private Estates & Family Offices („Chauffeur Only“).`;
+    } else if (currentLang === 'fr') {
+      tierLabel = 'QUALIFIÉ TIER-1 MAISONS DE LUXE (≥85 PTS)';
+      headline = `${escapeHtml(name)} atteint le standard d'excellence Victoria Cosmos (Réf: VCL-GC-79).`;
+      coaching = `Score élevé (${totalScore}/100) grâce à la régularité horaire, l'absence de sinistres et l'intendance. Après validation manuelle de vos photos réelles et du casier judiciaire, votre profil peut intégrer nos offres « Chauffeur Seul ».`;
+    } else {
+      tierLabel = 'QUALIFIED: TIER-1 LUXURY HOUSEHOLD (≥85 PTS)';
+      headline = `${escapeHtml(name)} matches Victoria Cosmos Private Household Standards (vs. Ref: VCL-GC-79 98/100).`;
+      coaching = `Strong behavioral alignment (${totalScore}/100): Proven schedule endurance, clean safety record, and estate versatility make this activity recommendable for Luxury "Chauffeur Only" mandates pending manual Admin verification of real photos and background check.`;
+    }
+  } else if (totalScore >= 70 && accidents <= 1) {
+    tierClass = 'tier-fleet';
+    if (currentLang === 'de') {
+      tierLabel = 'TIER-2 B2B FLOTTENLOGISTIK GEEIGNET (70–84)';
+      headline = `${escapeHtml(name)} qualifiziert sich für Autohaus-Überführungen & Jockey-Teams.`;
+      coaching = `Gute Basis (${totalScore}/100) für Fahrzeugüberführungen (Team Alpha / B2B). Für Tier-1 Family Offices empfehlen wir den Nachweis von 0 Unfällen, Nacht-/Früheinsatzpraxis sowie mindestens 2 Fremdsprachen + Garagen-Intendanz.`;
+    } else if (currentLang === 'fr') {
+      tierLabel = 'QUALIFIÉ TIER-2 CONVOYAGE FLOTTES B2B (70–84)';
+      headline = `${escapeHtml(name)} est éligible pour les transferts concessions & équipes mobiles.`;
+      coaching = `Bon profil (${totalScore}/100) pour le convoyage automobile B2B. Pour accéder au rang Tier-1 Maisons Privées, renforcez la disponibilité matinale 04h30, les langues étrangères ou la gestion de garage.`;
+    } else {
+      tierLabel = 'QUALIFIED: TIER-2 B2B FLEET LOGISTICS (70–84 PTS)';
+      headline = `${escapeHtml(name)} qualifies for Dealership Fleet Transfers & Team Alpha Jockey Squads.`;
+      coaching = `Solid operational score (${totalScore}/100) suited for B2B fleet movement (${mode}). To unlock Tier-1 Private Estates (≥85 pts), expand dawn/night reliability proof, multilingual range, or garage stewardship markers.`;
+    }
+  } else {
+    tierClass = 'tier-reject';
+    if (currentLang === 'de') {
+      tierLabel = 'UNTER BENCHMARK (<70) – RÜCKSPRACHE';
+      headline = 'Aktuell noch nicht für direkte VIP-Mandate freigebbar.';
+      coaching = `Aktuelle Bewertung: ${totalScore}/100. Ein unfallfreier Verlauf über mehrere Jahre, Nichtraucher-Disziplin im Dienst sowie strikte Verlässlichkeit zu Früh-/Nachtzeiten sind Voraussetzung für Victoria Cosmos Mandanten.`;
+    } else if (currentLang === 'fr') {
+      tierLabel = 'SOUS LE SEUIL (<70) – EN ATTENTE';
+      headline = 'Critères actuels insuffisants pour les mandats VIP directs.';
+      coaching = `Score actuel : ${totalScore}/100. Un historique sans sinistre responsable et une disponibilité horaire rigoureuse sont obligatoires avant toute présentation à nos clients.`;
+    } else {
+      tierLabel = 'BELOW LUXURY BENCHMARK (<70 PTS)';
+      headline = 'Does not yet meet minimum B2B / Household threshold.';
+      coaching = `Current score: ${totalScore}/100. Luxury households require zero recent at-fault incidents, verifiable schedule endurance, clean-record attestation, and authentic business attire photographs.`;
+    }
+  }
+
+  // Update AI Results DOM Panel
+  const totalEl = document.getElementById('aiTotalScore');
+  const pillEl = document.getElementById('aiTierPill');
+  const headEl = document.getElementById('aiTierHeadline');
+  const coachEl = document.getElementById('aiCoachingText');
+  if (totalEl) totalEl.textContent = String(totalScore);
+  if (pillEl) {
+    pillEl.className = `tier-pill ${tierClass}`;
+    pillEl.textContent = tierLabel;
+  }
+  if (headEl) headEl.textContent = headline;
+  if (coachEl) coachEl.textContent = coaching;
+
+  const setBar = (valId, barId, val, max) => {
+    const vEl = document.getElementById(valId);
+    const bEl = document.getElementById(barId);
+    if (vEl) vEl.textContent = `${val} / ${max}`;
+    if (bEl) bEl.style.width = `${Math.round((val / max) * 100)}%`;
+  };
+  setBar('mNightVal', 'mNightBar', nightScore, 25);
+  setBar('mSafetyVal', 'mSafetyBar', safetyScore, 25);
+  setBar('mDiscretionVal', 'mDiscretionBar', discScore, 20);
+  setBar('mGarageVal', 'mGarageBar', garageScore, 15);
+  setBar('mLangVal', 'mLangBar', textLangScore, 15);
+
+  return {
+    name,
+    city,
+    driveYears,
+    accidents,
+    nightTier,
+    mode,
+    totalScore,
+    tierLabel,
+    breakdown: { nightScore, safetyScore, discScore, garageScore, textLangScore }
+  };
+}
+
+// Photo upload pre-check (rejects obvious synthetic filenames and displays selected real photos count)
+const vetPhotosInput = document.getElementById('vetPhotos');
+const photoCheckStatus = document.getElementById('photoCheckStatus');
+if (vetPhotosInput && photoCheckStatus) {
+  vetPhotosInput.addEventListener('change', () => {
+    const files = [...(vetPhotosInput.files || [])];
+    if (files.length === 0) {
+      photoCheckStatus.textContent = '';
+      return;
+    }
+    const flagged = files.filter(f => /ai[-_ ]?generated|midjourney|dalle|stable[-_ ]?diffusion|synthetic/i.test(f.name));
+    if (flagged.length > 0) {
+      photoCheckStatus.style.color = '#f87171';
+      photoCheckStatus.textContent = `❌ Rejected filename (${flagged[0].name}): AI-generated/synthetic photos are strictly forbidden. Upload 100% real photos only.`;
+    } else {
+      photoCheckStatus.style.color = '#4ade80';
+      photoCheckStatus.textContent = `✓ ${files.length} real photo file(s) staged for Admin Visual Inspection (${files.map(f => f.name).join(', ')}).`;
+    }
+  });
+}
+
+// Wire AI Vetting Analysis button & Form submission
+const runAiVettingBtn = document.getElementById('runAiVettingBtn');
+const aiVettingForm = document.getElementById('aiVettingForm');
+if (runAiVettingBtn) {
+  runAiVettingBtn.addEventListener('click', () => {
+    const res = evaluateChauffeurProfile();
+    const panel = document.getElementById('aiResultStatus');
+    if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    return res;
+  });
+}
+
+if (aiVettingForm) {
+  aiVettingForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (window.__vcSyncFormAccessibility) window.__vcSyncFormAccessibility(aiVettingForm);
+    if (!aiVettingForm.checkValidity()) {
+      const firstBad = aiVettingForm.querySelector(':invalid, .user-invalid-fallback');
+      if (firstBad) firstBad.focus();
+      return;
+    }
+
+    const aiRes = evaluateChauffeurProfile();
+    const email = document.getElementById('vetEmail').value.trim();
+    const phone = document.getElementById('vetPhone').value.trim();
+    const summary = document.getElementById('vetSummary').value.trim();
+    const files = [...(document.getElementById('vetPhotos')?.files || [])].map(f => f.name);
+    const submitBtn = document.getElementById('submitVettingBtn');
+    const feedback = document.getElementById('vettingFormFeedback');
+
+    if (submitBtn) submitBtn.disabled = true;
+
+    const record = {
+      type: 'driver_onboarding_ai_vetting',
+      candidate_name: aiRes.name,
+      base_city: aiRes.city,
+      email: email,
+      phone: phone,
+      operating_mode: aiRes.mode,
+      ai_score: aiRes.totalScore,
+      ai_tier: aiRes.tierLabel,
+      photo_filenames: files,
+      summary: summary,
+      timestamp: new Date().toISOString()
+    };
+
+    const subjectLine = `Driver Onboarding Application [AI Score: ${aiRes.totalScore}/100 | ${aiRes.tierLabel}]: ${aiRes.name}`;
+    const mailtoLines = [
+      `Victoria Cosmos Ltd — Public Chauffeur Onboarding & AI Vetting Submission`,
+      `Candidate: ${aiRes.name}`,
+      `Base City: ${aiRes.city}`,
+      `Email: ${email}`,
+      `Phone / WhatsApp: ${phone}`,
+      `Preferred Operating Track: ${aiRes.mode}`,
+      `AI Benchmark Score: ${aiRes.totalScore}/100 (${aiRes.tierLabel})`,
+      `Breakdown -> Night Discipline: ${aiRes.breakdown.nightScore}/25 | Safety: ${aiRes.breakdown.safetyScore}/25 | Discretion: ${aiRes.breakdown.discScore}/20 | Estate/Garage: ${aiRes.breakdown.garageScore}/15 | Languages & Text: ${aiRes.breakdown.textLangScore}/15`,
+      `Selected Real Photos: ${files.length ? files.join(', ') : '(Attach real photos in email)'}`,
+      ``,
+      `Work History Summary:`,
+      summary
+    ];
+
+    const { mailtoUrl } = await transmitB2BDispatch('vc_driver_applications', record, subjectLine, record, mailtoLines);
+    const safeName = escapeHtml(aiRes.name);
+
+    feedback.className = 'form-feedback success';
+    if (currentLang === 'de') {
+      feedback.innerHTML = `✓ Bewerbung von <strong>${safeName}</strong> erfasst (KI-Score: <strong>${aiRes.totalScore}/100</strong>). Ihr Profil durchläuft nun das manuelle Admin-Vetting. Bitte senden Sie Ihre echten Geschäftsfotos ggf. direkt per Klick: <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">E-Mail mit Fotos an Dispatch senden</a>.`;
+    } else if (currentLang === 'fr') {
+      feedback.innerHTML = `✓ Candidature de <strong>${safeName}</strong> enregistrée (Score IA : <strong>${aiRes.totalScore}/100</strong>). Votre dossier passe en validation manuelle Admin. Joignez vos photos réelles si nécessaire : <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">Envoyer par e-mail au Dispatch</a>.`;
+    } else {
+      feedback.innerHTML = `✓ Dossier for <strong>${safeName}</strong> recorded (AI Benchmark Score: <strong>${aiRes.totalScore}/100</strong>). Status: Pending manual Admin Vetting of real photographs and background records. <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">Attach &amp; send real photos via email client</a>.`;
+    }
+
+    if (submitBtn) submitBtn.disabled = false;
+  });
+}
+
+// Wire Luxury Contract Request Form (#luxuryContractForm)
+const luxuryContractForm = document.getElementById('luxuryContractForm');
+if (luxuryContractForm) {
+  luxuryContractForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (window.__vcSyncFormAccessibility) window.__vcSyncFormAccessibility(luxuryContractForm);
+    if (!luxuryContractForm.checkValidity()) {
+      const firstBad = luxuryContractForm.querySelector(':invalid, .user-invalid-fallback');
+      if (firstBad) firstBad.focus();
+      return;
+    }
+
+    const comp = document.getElementById('luxComp').value.trim();
+    const person = document.getElementById('luxPerson').value.trim();
+    const email = document.getElementById('luxEmail').value.trim();
+    const phone = document.getElementById('luxPhone').value.trim();
+    const pkg = document.getElementById('luxPackageSelect').value;
+    const unit = document.getElementById('luxUnitSelect').value;
+    const msg = document.getElementById('luxMessage').value.trim();
+    const submitBtn = document.getElementById('luxSubmitBtn');
+    const feedback = document.getElementById('luxFormFeedback');
+
+    if (submitBtn) submitBtn.disabled = true;
+
+    const record = {
+      type: 'luxury_household_mandate',
+      company: comp,
+      contact_person: person,
+      email: email,
+      phone: phone,
+      package: pkg,
+      preferred_unit: unit,
+      message: msg,
+      timestamp: new Date().toISOString()
+    };
+
+    const subjectLine = `Confidential Luxury Chauffeur Mandate: ${comp} (${pkg.toUpperCase()} | Unit: ${unit})`;
+    const mailtoLines = [
+      `Victoria Cosmos Ltd — Luxury Chauffeur ("Chauffeur Only") Mandate Request`,
+      `Family Office / Household / Company: ${comp}`,
+      `Authorized Representative: ${person}`,
+      `Email: ${email}`,
+      `Phone: ${phone}`,
+      `Package: ${pkg}`,
+      `Preferred Vetted Unit: ${unit}`,
+      `Timestamp: ${record.timestamp}`,
+      ``,
+      `Vehicles & Briefing Details:`,
+      msg || '(Standard Master Agreement requested)'
+    ];
+
+    const { mailtoUrl } = await transmitB2BDispatch('vc_luxury_mandates', record, subjectLine, record, mailtoLines);
+    const safePerson = escapeHtml(person);
+    const safeComp = escapeHtml(comp);
+    const safeUnit = escapeHtml(unit);
+
+    feedback.className = 'form-feedback success';
+    if (currentLang === 'de') {
+      feedback.innerHTML = `✓ Vielen Dank, ${safePerson}! Ihre vertrauliche Anfrage für <strong>${safeComp}</strong> (Chauffeur: <strong>${safeUnit}</strong>) wurde an unsere Geschäftsführung übermittelt. <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">Direktversand per E-Mail öffnen</a>.`;
+    } else if (currentLang === 'fr') {
+      feedback.innerHTML = `✓ Merci, ${safePerson} ! Votre demande confidentielle pour <strong>${safeComp}</strong> (Chauffeur : <strong>${safeUnit}</strong>) a été transmise à notre direction. <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">Ouvrir dans votre messagerie</a>.`;
+    } else {
+      feedback.innerHTML = `✓ Thank you, ${safePerson}! Your confidential inquiry for <strong>${safeComp}</strong> (Unit: <strong>${safeUnit}</strong>) has been routed to Managing Dispatch. <a href="${mailtoUrl}" style="color:#fbbf24;text-decoration:underline;">Open direct email copy</a>.`;
+    }
+
+    if (submitBtn) submitBtn.disabled = false;
+    luxuryContractForm.reset();
+  });
+}
